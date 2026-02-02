@@ -1,0 +1,4 @@
+# Claude Code Observer - Python Dependencies
+
+# Model Context Protocol (MCP) server framework
+mcp>=1.0.0
